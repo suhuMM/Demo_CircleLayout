@@ -1,0 +1,7 @@
+#Tue Feb 21 16:42:16 CST 2017
+base.0=E\:\\AS\\domes\\Demo_CircleLayout1\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_ac3d5346ef4f4fe94c80f3e3a528cdf873f026c9
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=E\:\\AS\\domes\\Demo_CircleLayout1\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_cdcacec566d848879345b1a532c449a25be0199d\\classes.dex
+base.1=E\:\\AS\\domes\\Demo_CircleLayout1\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_cdcacec566d848879345b1a532c449a25be0199d
+file.0=E\:\\AS\\domes\\Demo_CircleLayout1\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_ac3d5346ef4f4fe94c80f3e3a528cdf873f026c9\\classes.dex
